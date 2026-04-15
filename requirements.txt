@@ -5,3 +5,4 @@ scikit-learn
 torch
 sentence-transformers
 scipy
+nltk
