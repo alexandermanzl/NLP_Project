@@ -6,3 +6,4 @@ torch
 sentence-transformers
 scipy
 nltk
+seaborn
