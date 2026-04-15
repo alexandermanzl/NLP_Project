@@ -1,4 +1,13 @@
-# NLP_Project
+# NLP Group Project: Neural Semantic Alignment. A Transformer-Based Approach to Automated Resume Ranking and Skill Matching
+## Group J: HROMADA Stefan, IYAMU Daniel, MANZL Alexander, ZEHENTNER José
+FH Technikum Wien, NLP, Master in AI Engineering. Submitted 04/2026
+
+
+## Important project details
+The implementation of the project proposal is documented in nlp_project.ipynb. To run it, make sure the required dependencies are installed.
+
+## Running the project
+
 
 1. Create and activate virtual environment:
 
